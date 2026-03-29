@@ -93,10 +93,10 @@ Predicted Weather: Sunny
 
 ##  Author
 
-Akshat Bajpai
+Keshav Agrawal
 
 ---
 
-## ⭐ Contribution
+## Contribution
 
 Feel free to fork and improve this project!
